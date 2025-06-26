@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { CheckCircle, TrendingUp, Users, Shield, Gauge, Calculator } from 'lucide-react';
+import { CheckCircle, TrendingUp, Users, Shield, Gauge, Calculator, Thermometer } from 'lucide-react';
 
 const InfoSection = () => {
   const features = [
